@@ -97,4 +97,4 @@ In this section, you will visually analyze the cluster analysis results by contr
 
 3. Answer the following question: After visually analyzing the cluster analysis results, what is the impact of using fewer features to cluster the data using K-Means?
 
-> **Rewind**: Back in Lesson 3 of Module 6, you learned how to create composite plots. You can look at that lesson to review how to make these plots; also, you can check the hvPlot documentation(https://holoviz.org/tutorial/Composing_Plots.html).
+> **Rewind**: Back in Lesson 3 of Module 6, you learned how to create composite plots. You can look at that lesson to review how to make these plots; also, you can check [the hvPlot documentation](https://holoviz.org/tutorial/Composing_Plots.html).
